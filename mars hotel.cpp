@@ -53,6 +53,9 @@ int main(){
         scanf("%d", &nquarto2);
         printf("Obrigado!");
     break;
+    
+    case 4:
+    	printf("saindo...");
 
     default: 
 		("digite numero valido");
